@@ -30,14 +30,6 @@ To evaluate how economic indicators like GDP growth, inflation, and interest rat
 - LSTM also showed strong performance for time-series predictions
 - SHAP analysis highlighted GDP and inflation as top features
 
-## 📘 Report
-See [`FinalReport.pdf`](./final_report/FinalReport.pdf) for the complete academic report.
-
-## 🚀 Future Work
-- Use more granular daily data
-- Test with other companies
-- Incorporate real-time data streaming
-
 ---
 
 ## 👨‍💻 Contributors
