@@ -32,10 +32,4 @@ To evaluate how economic indicators like GDP growth, inflation, and interest rat
 
 ---
 
-## 👨‍💻 Contributors
-- Sammeta Guru Sai Nandan - 22BCE9614  
-- Aavula Ravi Kumar – 22BCE20046  
-- **Paluvuri Sujan** - 22BCE9907  
-- B. Suhith – 22BCE8590  
 
-Guided by: **S. Bharath Bhushan**
